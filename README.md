@@ -20,13 +20,13 @@ Click on the <a href="https://github.com/vivekNaz/Add-React-and-nodejs-projects"
 **2.** Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/Awesome-Javascript-and-React-Project
+git clone https://github.com/<your-github-username>/Add-React-and-nodejs-projects
 ```
 
 **3.** Navigate to the project directory.
 
 ```bash
-cd Awesome-Javascript-and-React-Project
+cd Add-React-and-nodejs-projects
 ```
 
 **4.** Make changes in source code.
